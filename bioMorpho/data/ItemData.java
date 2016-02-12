@@ -63,29 +63,4 @@ public class ItemData {
 		
 	}
 	
-/*	PROTOTYPE_NUCLEUS(1024, "prototypeNucleus", "prototypeNucleus"),
-	NUCLEOBASE_GOO(512, "nucleobaseGoo", "nucleobaseGoo"),
-	GEM_OF_GENESIS(513, "gemOfGenesis"),
-	BLUE_METEOR_SHARD(514, "blueMeteorShard"),
-	LUNAR_ORB(515, "lunarOrb"),
-	;
-	
-	private final int ID;
-	private final String UNLOCALIZED_NAME;
-	private final String REGISTER_NAME;
-	
-	private ItemData(int id, String allNames) {
-		this(id, allNames, allNames);
-	}
-	
-	private ItemData(int id, String unlocalizedName, String registerName) {
-		this.ID = id;
-		this.UNLOCALIZED_NAME = unlocalizedName;
-		this.REGISTER_NAME = registerName;
-	}
-	
-	public int getId() { return this.ID; }
-	public String getUnlocalizedName() { return this.UNLOCALIZED_NAME; }
-	public String getRegisterName() { return this.REGISTER_NAME; }*/
-	
 }
